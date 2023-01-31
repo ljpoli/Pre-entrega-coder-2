@@ -137,3 +137,12 @@ p{
     font-size: 1em;
 }
 
+h1{
+    color:rgb(210, 105, 30);
+    font-size: 4em;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    margin-top: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+}
